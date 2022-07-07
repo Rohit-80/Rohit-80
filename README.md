@@ -25,7 +25,7 @@
 
 <a href="https://instagram.com/rohitv80_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohitv80" height="30" width="40" /></a>
 <br><br><br>
-<a href="https://www.youtube.com/c/rv__info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rv__info" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/rv__info](https://www.youtube.com/channel/UCO1QPGnCpFwRZjoK8o00WHQ/about)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rv__info" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/topcoder41" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@topcoder41" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shrirohitvishwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrirohitvishwa1" height="30" width="40" /></a>
 <br><br><br>
