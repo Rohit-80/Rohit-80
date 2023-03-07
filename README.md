@@ -22,7 +22,7 @@ Also had a good understanding of **object oriented programming (C++) , computer 
 
 
 
-- 📫 How to reach me **shrirohitvishwakarma80@gmail.com , 6263517028 **
+- 📫 How to reach me <h3 >shrirohitvishwakarma80@gmail.com , 6263517028. <h3> 
 
 
 
