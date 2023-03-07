@@ -1,24 +1,36 @@
-<h1 align="center">Hi 👋, I'm Rohit vishwakarma</h1>
+<h1 align="center">Hi 👋, I'm Rohit vishwakarma @topcoder41 </h1>
+
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-<h3 align="center">A passionate CP and WEB developer from India .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-80&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-80" /> </p>
 
-- 🔭 I’m currently working on [Zoom Clone [Nodejs]](https://github.com/Rohit-80/Zoom_Clone-Nodejs-)
+<h3 align="center">A passionate Comeptitive programmer and web developer from India . </h3>
 
-- 🌱 I’m currently learning **Nodejs , DSA etc...**
 
-- 📫 How to reach me **shrirohitvishwakarma80@gmail.com , 6263517028**
+### Something about me :
 
-- ⚡ Fun fact **cooled af**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+I am pursuing B.tech in Information Technology (IT) and currently am in third year of my college degree.
 
-<h3 align="left">Connect with me:</h3>
+I have been doing programming from more than a year, and have a great experience in building web apps using technologies like REACTJS, NODEJS, MONGODB, EXPRESSJS, Django , writing REST API for the back-end services.
+
+Also have a hands-on experience of version control systems like Git & Github as well as API testing applications like POSTMAN and deploying a full-stack application on HEROKU.
+
+I understand the concepts of **data structures and algorithms** effectively and how to implement it practically , 
+
+Also had a good understanding of **object oriented programming (C++) , computer network (CN) , operating system(OS) and database management system (DBMS)**
+.
+
+
+
+- 📫 How to reach me **shrirohitvishwakarma80@gmail.com , 6263517028 **
+
+
+
+<h3 align="left" style="Bold">Connect with me </h3>
+
 <p align="left">
 <a href="https://dev.to/rohitv80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rohitv" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/rohit-09bb15130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16412596/rohit-vishwkarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohit8021" height="30" width="40" /></a>
 <br><br><br>
