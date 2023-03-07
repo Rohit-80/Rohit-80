@@ -28,19 +28,21 @@ Also had a good understanding of **object oriented programming (C++) , computer 
 
 <h3 align="left" style="Bold">Connect with me </h3>
 
-<p align="left">
+<p align="center" space="1000px" >
 <a href="https://dev.to/rohitv80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rohitv" height="30" width="40" /></a>
-  
 <a href="https://linkedin.com/in/rohit-09bb15130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16412596/rohit-vishwkarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohit8021" height="30" width="40" /></a>
-<br><br><br>
-<a href="https://kaggle.com/rohit80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohit80" height="30" width="40" /></a>
-
-<a href="https://instagram.com/rohitv80_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohitv80" height="30" width="40" /></a>
-<br><br><br>
-<a href="https://www.youtube.com/channel/UCO1QPGnCpFwRZjoK8o00WHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rv__info" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/topcoder41" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@topcoder41" height="30" width="40" /></a>
+<a  href="https://stackoverflow.com/users/16412596/rohit-vishwkarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohit8021" height="30" width="40" /></a> 
 <a href="https://www.hackerrank.com/shrirohitvishwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrirohitvishwa1" height="30" width="40" /></a>
+  <p align="center">
+<a  href="https://kaggle.com/rohit80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohit80" height="30" width="40" /></a> </p>
+
+  <p align="center">
+<a href="https://instagram.com/rohitv80_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohitv80" height="30" width="40" /></a> </p>
+  <p align="center">
+<a href="https://www.youtube.com/channel/UCO1QPGnCpFwRZjoK8o00WHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rv__info" height="30" width="40" /></a>
+  <p align="center">
+<a href="https://www.codechef.com/users/topcoder41" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@topcoder41" height="30" width="40" /></a>
+
 <br><br><br>
 <a href="https://codeforces.com/profile/@topcoder41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@topcoder41" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/@rohit_cracker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@rohit_cracker" height="30" width="40" /></a>
