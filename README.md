@@ -42,10 +42,10 @@ Also had a good understanding of **object oriented programming (C++) , computer 
 <a href="https://www.youtube.com/channel/UCO1QPGnCpFwRZjoK8o00WHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rv__info" height="30" width="40" /></a>
   <p align="center">
 <a href="https://www.codechef.com/users/topcoder41" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@topcoder41" height="30" width="40" /></a>
-
 <br><br><br>
-<a href="https://codeforces.com/profile/@topcoder41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@topcoder41" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@rohit_cracker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@rohit_cracker" height="30" width="40" /></a>
+<pre>
+<a href="https://codeforces.com/profile/@topcoder41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@topcoder41" height="30" width="40" /></a>          <a href="https://www.leetcode.com/@rohit_cracker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@rohit_cracker" height="30" width="40" /></a>
+</pre>
 
 <a href="https://www.hackerearth.com/@shrirohitvishwakarma80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@topcoder41" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/@shrirohitvish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@shrirohitvish" height="30" width="40" /></a>
